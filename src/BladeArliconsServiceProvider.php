@@ -17,7 +17,7 @@ final class BladeArliconsServiceProvider extends ServiceProvider
         $this->callAfterResolving(Factory::class, function (Factory $factory, Container $container) {
             $config = $container->make('config')->get('blade-arlicons', []);
 
-            $factory->add('arlicons', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
+            $factory->add('default', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
         });
     }
 
