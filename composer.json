@@ -1,12 +1,12 @@
 {
-    "name": "blade-organization/blade-heroicons",
+    "name": "arl-steve/blade-arlicons",
     "description": "A package to easily make use of Heroicons in your Laravel Blade views.",
     "keywords": ["Blade", "Heroicons", "Laravel"],
     "homepage": "https://github.com/blade-organization/blade-heroicons",
     "license": "MIT",
     "authors": [
         {
-            "name": "Blade Developer"
+            "name": "arl-steve"
         }
     ],
     "require": {
