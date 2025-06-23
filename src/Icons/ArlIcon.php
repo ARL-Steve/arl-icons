@@ -8,7 +8,7 @@ use Filament\Support\Enums\IconSize;
 enum ArlIcon: string implements ScalableIcon
 {
     case ArlTriangle = 'arl-triangle';
-    case SolidArlTriangle = 's-arl-triangle';
+    case OutlinedArlTriangle = 'o-arl-triangle';
 
     public function getIconForSize(IconSize $size): string
     {
@@ -17,9 +17,9 @@ enum ArlIcon: string implements ScalableIcon
         }
 
         return match ($size) {
-            IconSize::ExtraSmall, IconSize::Small => "heroicon-c-{$this->value}",
-            IconSize::Medium => "heroicon-m-{$this->value}",
-            IconSize::Large, IconSize::ExtraLarge, IconSize::TwoExtraLarge => "heroicon-s-{$this->value}",
+            IconSize::ExtraSmall, IconSize::Small => "arlicon-c-{$this->value}",
+            IconSize::Medium => "arlicon-m-{$this->value}",
+            IconSize::Large, IconSize::ExtraLarge, IconSize::TwoExtraLarge => "arlicon-s-{$this->value}",
         };
     }
 }
