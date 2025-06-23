@@ -17,7 +17,7 @@ class CompilesIconsTest extends TestCase
 
         // Note: the empty class here seems to be a Blade components bug.
         $expected = <<<'SVG'
-            <svg class="w-6 h-6 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 382.4 300.6" stroke="currentColor" >
+            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 382.4 300.6" stroke="currentColor" >
                 <g>
                     <polygon points="300.7,0 0,0 0,300.6 	"/>
                 </g>
@@ -33,7 +33,7 @@ class CompilesIconsTest extends TestCase
         $result = svg('arlicons-arl-triangle', 'w-6 h-6 text-gray-500')->toHtml();
 
         $expected = <<<'SVG'
-            <svg class="w-6 h-6 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 382.4 300.6" stroke="currentColor" >
+            <svg class="w-6 h-6 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 382.4 300.6" stroke="currentColor" >
                 <g>
                     <polygon points="300.7,0 0,0 0,300.6 	"/>
                 </g>
@@ -49,7 +49,7 @@ class CompilesIconsTest extends TestCase
         $result = svg('arlicons-arl-triangle', ['style' => 'color: #555'])->toHtml();
 
         $expected = <<<'SVG'
-            <svg style="color: #555" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 382.4 300.6" stroke="currentColor" >
+            <svg style="color: #555" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 382.4 300.6" stroke="currentColor" >
                 <g>
                     <polygon points="300.7,0 0,0 0,300.6 	"/>
                 </g>
