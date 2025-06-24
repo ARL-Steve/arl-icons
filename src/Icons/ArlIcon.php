@@ -9,6 +9,8 @@ enum ArlIcon: string implements ScalableIcon
 {
     case ArlTriangle = 'arl-triangle';
     case OutlinedArlTriangle = 'o-arl-triangle';
+    case ArlEntryRight = 'arl-entry-right';
+    case OutlinedArlEntryRight = 'o-arl-entry-right';
 
     public function getIconForSize(IconSize $size): string
     {
