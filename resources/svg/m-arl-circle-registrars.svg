@@ -3,19 +3,19 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 382.4 300.6" style="enable-background:new 0 0 382.4 300.6;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:0.25;fill:none;}
-	.st1{fill:#7BA4A8;}
-	.st2{opacity:0.25;fill:#E7192A;}
-	.st3{opacity:0.25;fill:#0F1A98;}
-	.st4{opacity:0.25;fill:#FF5423;}
-	.st5{opacity:0.25;fill:#F9BE3C;}
-	.st6{opacity:0.25;fill:#A5C05B;}
+	.arl-circle-registrars-st0{opacity:0.25;fill:none;}
+	.arl-circle-registrars-st1{fill:#7BA4A8;}
+	.arl-circle-registrars-st2{opacity:0.25;fill:#E7192A;}
+	.arl-circle-registrars-st3{opacity:0.25;fill:#0F1A98;}
+	.arl-circle-registrars-st4{opacity:0.25;fill:#FF5423;}
+	.arl-circle-registrars-st5{opacity:0.25;fill:#F9BE3C;}
+	.arl-circle-registrars-st6{opacity:0.25;fill:#A5C05B;}
 </style>
-<circle class="st0" cx="191.2" cy="150.3" r="127.6"/>
-<path class="st1" d="M61,75.1l130.2,75.2V0C135.6,0,87,30.2,61,75.1z"/>
-<path class="st2" d="M191.2,22.8v127.5l110.5-63.8C278.1,45.7,235.2,22.8,191.2,22.8z"/>
-<path class="st3" d="M301.7,86.5l-110.5,63.8l110.5,63.8C325.3,173.2,323.6,124.7,301.7,86.5z"/>
-<path class="st4" d="M301.7,214.1l-110.5-63.8v127.5C238.4,277.8,279.6,252.2,301.7,214.1z"/>
-<path class="st5" d="M191.2,277.8V150.3L80.7,214.1C104.3,254.9,147.2,277.8,191.2,277.8z"/>
-<path class="st6" d="M80.7,214.1l110.5-63.8L80.7,86.5C57.1,127.4,58.8,175.9,80.7,214.1z"/>
+<circle class="arl-circle-registrars-st0" cx="191.2" cy="150.3" r="127.6"/>
+<path class="arl-circle-registrars-st1" d="M61,75.1l130.2,75.2V0C135.6,0,87,30.2,61,75.1z"/>
+<path class="arl-circle-registrars-st2" d="M191.2,22.8v127.5l110.5-63.8C278.1,45.7,235.2,22.8,191.2,22.8z"/>
+<path class="arl-circle-registrars-st3" d="M301.7,86.5l-110.5,63.8l110.5,63.8C325.3,173.2,323.6,124.7,301.7,86.5z"/>
+<path class="arl-circle-registrars-st4" d="M301.7,214.1l-110.5-63.8v127.5C238.4,277.8,279.6,252.2,301.7,214.1z"/>
+<path class="arl-circle-registrars-st5" d="M191.2,277.8V150.3L80.7,214.1C104.3,254.9,147.2,277.8,191.2,277.8z"/>
+<path class="arl-circle-registrars-st6" d="M80.7,214.1l110.5-63.8L80.7,86.5C57.1,127.4,58.8,175.9,80.7,214.1z"/>
 </svg>
