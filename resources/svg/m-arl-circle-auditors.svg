@@ -3,19 +3,19 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 382.4 300.6" style="enable-background:new 0 0 382.4 300.6;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#E7192A;}
-	.st1{fill:#BDD1D3;}
-	.st2{fill:#878CCB;}
-	.st3{fill:#FFA991;}
-	.st4{fill:#FCDE9D;}
-	.st5{fill:#D2DFAD;}
+	.st0{opacity:0.25;fill:none;}
+	.st1{opacity:0.25;fill:#7BA4A8;}
+	.st2{fill:#E7192A;}
+	.st3{opacity:0.25;fill:#0F1A98;}
+	.st4{opacity:0.25;fill:#FF5423;}
+	.st5{opacity:0.25;fill:#F9BE3C;}
+	.st6{opacity:0.25;fill:#A5C05B;}
 </style>
-<path class="st0" d="M191.2,0v150.3l130.2-75.2C293.6,27,243.1,0,191.2,0z"/>
-<g>
-	<path class="st1" d="M191.2,22.8c-47.2,0-88.4,25.6-110.5,63.8l110.5,63.8V22.8"/>
-	<path class="st2" d="M301.7,86.5l-110.5,63.8l110.5,63.8C325.3,173.2,323.6,124.7,301.7,86.5"/>
-	<path class="st3" d="M191.2,150.3v127.6c47.2,0,88.4-25.6,110.5-63.8l0,0c0,0,0,0,0,0L191.2,150.3"/>
-	<path class="st4" d="M191.2,150.3L191.2,150.3L80.7,214.1c23.6,40.9,66.4,63.8,110.5,63.8v0l0,0V150.3"/>
-	<path class="st5" d="M80.7,86.5c-23.6,40.9-22,89.4,0,127.6l0,0c0,0,0,0,0,0l110.5-63.8L80.7,86.5"/>
-</g>
+<circle class="st0" cx="191.2" cy="150.3" r="127.6"/>
+<path class="st1" d="M80.7,86.5l110.5,63.8V22.8C144,22.8,102.8,48.4,80.7,86.5z"/>
+<path class="st2" d="M191.2,0v150.3l130.2-75.2C293.6,27,243.1,0,191.2,0z"/>
+<path class="st3" d="M301.7,86.5l-110.5,63.8l110.5,63.8C325.3,173.2,323.6,124.7,301.7,86.5z"/>
+<path class="st4" d="M301.7,214.1l-110.5-63.8v127.5C238.4,277.8,279.6,252.2,301.7,214.1z"/>
+<path class="st5" d="M191.2,277.8V150.3L80.7,214.1C104.3,254.9,147.2,277.8,191.2,277.8z"/>
+<path class="st6" d="M80.7,214.1l110.5-63.8L80.7,86.5C57.1,127.4,58.8,175.9,80.7,214.1z"/>
 </svg>
