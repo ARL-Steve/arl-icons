@@ -13,6 +13,13 @@ enum ArlIcon: string implements ScalableIcon
     case OutlinedArlEntryRight = 'o-arl-entry-right';
     case ArlCompany = 'arl-company';
     case OutlinedArlCompany = 'o-arl-company';
+    case ArlCircleAll = 'arl-circle-all';
+    case ArlCircleAuditors = 'arl-circle-auditors';
+    case ArlCircleBrokers = 'arl-circle-brokers';
+    case ArlCircleFas = 'arl-circle-fas';
+    case ArlCircleFprs = 'arl-circle-fprs';
+    case ArlCircleLaws = 'arl-circle-laws';
+    case ArlCircleOther = 'arl-circle-registrars';
 
     public function getIconForSize(IconSize $size): string
     {
